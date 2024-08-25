@@ -14,7 +14,7 @@ yankewang[at]ust.hk
 
 
 #### Academic
-03.2023 – present             Hong Kong University of Science and Technology (HKUST) - Post-doc Fellow (Computer Vision and Generative AI)
+03.2024 – present             Hong Kong University of Science and Technology (HKUST) - Post-doc Fellow (Computer Vision and Generative AI)
 
 09.2019 - 08.2023             Karlsruhe Institute of Technology (KIT) – PhD (Applied Informatics & Automation) Result: 1.0 (magna cum laude)
 
