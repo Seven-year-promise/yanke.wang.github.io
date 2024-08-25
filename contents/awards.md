@@ -1,6 +1,6 @@
 - 2022 KHYS Networking grant, Karlsruhe, Germany
 
-- 2021 CI workshop Young Author Award (best paper, in font page of institute website IAI-KIT)
+- 2021 CI workshop Young Author Award (best paper, in font page of institute website IAI-KIT), Berlin, Germany
   
 - 2020 BIF-IGS Travel grant awards, Karlsruhe, Germany
 
