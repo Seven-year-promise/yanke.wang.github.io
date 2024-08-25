@@ -1,7 +1,8 @@
 #### Project Experience
 
 ##### Deep Learning
-          Latent diffusion model optimized by energy-based priors – cooperated with ETH, Switzerland    02.2022 – present
+
+Latent diffusion model optimized by energy-based priors – cooperated with ETH, Switzerland    02.2022 – present
 
 ##### Robotics & Automated Lab
 Automated touch-response experimental robot for zebrafish larvae – BIF-IGS at KIT       09.2019 – present
